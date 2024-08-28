@@ -15,20 +15,18 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-      List<Integer> l=new ArrayList<>();
-      int[] maxheight=new int[1];
-      view(root,maxheight,l,1);
-      return l;
-
+        List<Integer> l=new ArrayList<>();
+    levelll(root,0,l);
+    return l;
     }
-    private void view(TreeNode root,int[] maxheight,List<Integer> l,int curr){
-        if(root==null)
+    public void levelll(TreeNode root,int level,List<Integer> l){
+       if(root==null){
         return;
-        if(curr>maxheight[0]){
+       }
+      if(level==l.size()){
             l.add(root.val);
-          maxheight[0]=curr;  
         }
-        view(root.right,maxheight,l,curr+1);
-         view(root.left,maxheight,l,curr+1);
+        levelll(root.right,level+1,l);
+         levelll(root.left,level+1,l);
     }
 }
