@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1325-path-with-maximum-probability](https://github.com/HemaDua1/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HemaDua1/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search
 |  |
@@ -103,4 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
