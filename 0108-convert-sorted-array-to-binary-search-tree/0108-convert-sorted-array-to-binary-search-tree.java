@@ -23,10 +23,10 @@ class Solution {
         if(s>e){
             return null;
         }
-        int m=(e-s)/2+s;
+        int m=(e-s+1)/2+s;
         TreeNode root=new TreeNode(num[m]);
         root.left=create(num,s,m-1);
-        root.right=create(num,m+1,e);
+        root.right=create(num,m+1,e);   
         return root;
     }
 }
