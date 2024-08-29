@@ -24,9 +24,9 @@ class Solution {
         return;
         }
         s=s*2+root.val;
-         path(root.left,s);
         if(root.left==null&&root.right==null)
         a+=s;
+        path(root.left,s);
          path(root.right,s); 
     }
 }
