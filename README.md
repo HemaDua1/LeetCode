@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HemaDua1/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/HemaDua1/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
