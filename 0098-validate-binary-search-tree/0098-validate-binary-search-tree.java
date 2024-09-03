@@ -14,16 +14,30 @@
  * }
  */
 class Solution {
+    class pair{
+        boolean isbal=true;
+        long min=Long.MAX_VALUE;
+        long max=Long.MIN_VALUE;
+      
+    }
     public boolean isValidBST(TreeNode root) {
-      return check(root,null,null);  
-    }
-    public boolean check(TreeNode root,Integer left,Integer right){
-        if(root==null){
-            return true;
-        }
-       if((left!=null&&root.val<=left)||(right!=null&&root.val>=right)){
-       return false;
-       }
-      return check(root.left,left,root.val) && check(root.right,root.val,right);
-    }
+    return check(root).isbal;
+}
+public pair check(TreeNode root){
+  if(root==null){
+    return new pair();
+  }  
+  pair lp=check(root.left);
+  pair rp=check(root.right);
+pair self=new pair();
+if(root.val>lp.max && root.val<rp.min && lp.isbal && rp.isbal){
+self.isbal=true;
+self.min=Math.min(root.val,Math.min(lp.min,rp.min));
+self.max=Math.max(root.val,Math.max(lp.max,rp.max));
+}
+else{
+    self.isbal=false;
+}
+return self;
+}
 }
