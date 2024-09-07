@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/HemaDua1/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HemaDua1/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HemaDua1/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/HemaDua1/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HemaDua1/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/HemaDua1/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/HemaDua1/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HemaDua1/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HemaDua1/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HemaDua1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemaDua1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/HemaDua1/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HemaDua1/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Simulation
 |  |
