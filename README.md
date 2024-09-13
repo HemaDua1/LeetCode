@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-path-with-maximum-probability](https://github.com/HemaDua1/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HemaDua1/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HemaDua1/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Graph
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/HemaDua1/LeetCode/tree/master/0389-find-the-difference) |
+| [1435-xor-queries-of-a-subarray](https://github.com/HemaDua1/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HemaDua1/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
