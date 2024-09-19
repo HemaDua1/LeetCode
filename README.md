@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemaDua1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/HemaDua1/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/HemaDua1/LeetCode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/HemaDua1/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/HemaDua1/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/HemaDua1/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/HemaDua1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1894-merge-strings-alternately](https://github.com/HemaDua1/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
