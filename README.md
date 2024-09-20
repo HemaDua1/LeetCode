@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HemaDua1/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HemaDua1/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/HemaDua1/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HemaDua1/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 ## Queue
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HemaDua1/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/HemaDua1/LeetCode/tree/master/2155-find-missing-observations) |
+| [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/HemaDua1/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HemaDua1/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HemaDua1/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/HemaDua1/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 ## Rolling Hash
 |  |
 | ------- |
