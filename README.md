@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HemaDua1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/HemaDua1/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0906-walking-robot-simulation](https://github.com/HemaDua1/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/HemaDua1/LeetCode/tree/master/0932-monotonic-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HemaDua1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
