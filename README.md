@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/HemaDua1/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HemaDua1/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HemaDua1/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HemaDua1/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/HemaDua1/LeetCode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HemaDua1/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HemaDua1/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HemaDua1/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/HemaDua1/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HemaDua1/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HemaDua1/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HemaDua1/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 ## Array
