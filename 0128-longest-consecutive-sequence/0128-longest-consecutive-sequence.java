@@ -5,18 +5,18 @@ class Solution {
       HashMap<Integer,Boolean> h=new HashMap<>();
       for(int i:nums)
       h.put(i,true);
-      for(int i=0;i<nums.length;i++){
-        if(h.containsKey(nums[i]+1))
-        h.put(nums[i]+1,false);
-        else if(h.containsKey(nums[i]-1))
-        h.put(nums[i],false);
-        else
-    h.put(nums[i],true);
-      } 
-    // for(int i:nums){
-    //     if(h.containsKey(i-1))
-    //     h.put(i,false);
-    // }
+    //   for(int i=0;i<nums.length;i++){
+    //     if(h.containsKey(nums[i]+1))
+    //     h.put(nums[i]+1,false);
+    //     else if(h.containsKey(nums[i]-1))
+    //     h.put(nums[i],false);
+    //     else
+    // h.put(nums[i],true);
+    //   } 
+      for(int i:nums){
+        if(h.containsKey(i-1))
+        h.put(i,false);
+      }
       int ans=0; 
       for(int i:h.keySet()){
         int k=1;
