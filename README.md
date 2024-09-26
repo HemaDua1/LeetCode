@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HemaDua1/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HemaDua1/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HemaDua1/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/HemaDua1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HemaDua1/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/HemaDua1/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/HemaDua1/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HemaDua1/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/HemaDua1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HemaDua1/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/HemaDua1/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HemaDua1/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/HemaDua1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HemaDua1/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HemaDua1/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
