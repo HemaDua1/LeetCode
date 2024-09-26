@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HemaDua1/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/HemaDua1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HemaDua1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/HemaDua1/LeetCode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/HemaDua1/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HemaDua1/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/HemaDua1/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HemaDua1/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0396-rotate-function](https://github.com/HemaDua1/LeetCode/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HemaDua1/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HemaDua1/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/HemaDua1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/HemaDua1/LeetCode/tree/master/0396-rotate-function) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/HemaDua1/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2755-extra-characters-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2755-extra-characters-in-a-string) |
