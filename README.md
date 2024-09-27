@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/HemaDua1/LeetCode/tree/master/0468-validate-ip-address) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/HemaDua1/LeetCode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/HemaDua1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/HemaDua1/LeetCode/tree/master/0648-replace-words) |
 | [0742-to-lower-case](https://github.com/HemaDua1/LeetCode/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/HemaDua1/LeetCode/tree/master/0800-letter-case-permutation) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HemaDua1/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/HemaDua1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/HemaDua1/LeetCode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/HemaDua1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/HemaDua1/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HemaDua1/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HemaDua1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/HemaDua1/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/HemaDua1/LeetCode/tree/master/0397-integer-replacement) |
+| [0647-palindromic-substrings](https://github.com/HemaDua1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/HemaDua1/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2755-extra-characters-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2755-extra-characters-in-a-string) |
