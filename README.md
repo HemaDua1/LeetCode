@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HemaDua1/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/HemaDua1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2756-buy-two-chocolates](https://github.com/HemaDua1/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HemaDua1/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HemaDua1/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HemaDua1/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2756-buy-two-chocolates](https://github.com/HemaDua1/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Quickselect
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/HemaDua1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2756-buy-two-chocolates](https://github.com/HemaDua1/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/HemaDua1/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
