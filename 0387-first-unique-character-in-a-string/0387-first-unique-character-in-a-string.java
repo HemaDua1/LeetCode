@@ -1,20 +1,15 @@
 class Solution {
-    public int firstUniqChar(String s) {
-        int n = s.length();
-        Map <Character,Integer> map = new HashMap<>();
-        for(int i=0;i<n;i++){
-            if(!map.isEmpty() && map.containsKey(s.charAt(i))){
-                map.put(s.charAt(i),map.get(s.charAt(i))+1);
-            }
-            else{
-                map.put(s.charAt(i),1);
-            }
-        }
-        for(int i=0;i<n;i++){
-            if(map.get(s.charAt(i))==1){
-                return i;
-            }
-        }
-        return -1;
+    public int firstUniqChar(String str) {
+        int ans=Integer.MAX_VALUE;
+     for(int i=0;i<26;i++){
+      char ch=(char)('a'+i);
+      int s=str.indexOf(ch);
+      if(s!=-1){
+int l=str.lastIndexOf(ch);
+if(s==l)
+ans=Math.min(ans,l);
+      }
+     }  
+    return ans!=Integer.MAX_VALUE?ans:-1;
     }
 }
