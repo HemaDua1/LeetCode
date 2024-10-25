@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1197-parsing-a-boolean-expression](https://github.com/HemaDua1/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/HemaDua1/LeetCode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HemaDua1/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HemaDua1/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HemaDua1/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/HemaDua1/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/HemaDua1/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/HemaDua1/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HemaDua1/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HemaDua1/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/HemaDua1/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HemaDua1/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/HemaDua1/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HemaDua1/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HemaDua1/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HemaDua1/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/HemaDua1/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/HemaDua1/LeetCode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/HemaDua1/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HemaDua1/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HemaDua1/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HemaDua1/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
