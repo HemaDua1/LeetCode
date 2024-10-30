@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/HemaDua1/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HemaDua1/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HemaDua1/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/HemaDua1/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HemaDua1/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/HemaDua1/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HemaDua1/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/HemaDua1/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HemaDua1/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/HemaDua1/LeetCode/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/HemaDua1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HemaDua1/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/HemaDua1/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2755-extra-characters-in-a-string) |
