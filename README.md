@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/HemaDua1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/HemaDua1/LeetCode/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/HemaDua1/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0812-rotate-string](https://github.com/HemaDua1/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HemaDua1/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HemaDua1/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HemaDua1/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/HemaDua1/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/HemaDua1/LeetCode/tree/master/0812-rotate-string) |
 | [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 ## Rolling Hash
 |  |
