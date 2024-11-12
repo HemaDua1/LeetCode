@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HemaDua1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/HemaDua1/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HemaDua1/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/HemaDua1/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HemaDua1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/HemaDua1/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HemaDua1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/HemaDua1/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HemaDua1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HemaDua1/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/HemaDua1/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HemaDua1/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
