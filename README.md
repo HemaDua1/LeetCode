@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/HemaDua1/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/HemaDua1/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0983-validate-stack-sequences](https://github.com/HemaDua1/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/HemaDua1/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HemaDua1/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/HemaDua1/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HemaDua1/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/HemaDua1/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/HemaDua1/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/HemaDua1/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/HemaDua1/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0983-validate-stack-sequences](https://github.com/HemaDua1/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/HemaDua1/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
