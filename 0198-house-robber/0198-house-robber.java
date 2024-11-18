@@ -1,17 +1,18 @@
 class Solution {
     public int rob(int[] n) {
-    if(n.length==0)
-    return 0;
-    if(n.length==1)
-    return n[0];
-if(n.length==2)
+int l=n.length;
+if(n==null||l==0)
+return 0;
+if(l==1)
+return n[0];
+if(l==2)
 return Math.max(n[0],n[1]);
-int p1=0,p2=0;
-for(int i=0;i<n.length;i++){
-int t=p1;
-p1=Math.max(p1,p2+n[i]);
-p2=t;
-}
-return p1;
+int dp[]=new int[l];
+dp[0]=n[0];
+dp[1]=Integer.max(n[0],n[1]);
+for(int i=2;i<l;i++)
+dp[i]=Integer.max(n[i]+dp[i-2],dp[i-1]);
+return dp[l-1];
+
     }
 }
