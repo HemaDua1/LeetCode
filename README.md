@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/HemaDua1/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HemaDua1/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HemaDua1/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1755-defuse-the-bomb](https://github.com/HemaDua1/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/HemaDua1/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HemaDua1/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HemaDua1/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/HemaDua1/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HemaDua1/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
