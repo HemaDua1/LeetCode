@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/HemaDua1/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/HemaDua1/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HemaDua1/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HemaDua1/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/HemaDua1/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/HemaDua1/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/HemaDua1/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/HemaDua1/LeetCode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/HemaDua1/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/HemaDua1/LeetCode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HemaDua1/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
