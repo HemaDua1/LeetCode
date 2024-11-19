@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HemaDua1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HemaDua1/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/HemaDua1/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HemaDua1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/HemaDua1/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HemaDua1/LeetCode/tree/master/0049-group-anagrams) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HemaDua1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/HemaDua1/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/HemaDua1/LeetCode/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/HemaDua1/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/HemaDua1/LeetCode/tree/master/0278-first-bad-version) |
