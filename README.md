@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/HemaDua1/LeetCode/tree/master/0648-replace-words) |
 | [0729-my-calendar-i](https://github.com/HemaDua1/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/HemaDua1/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/HemaDua1/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/HemaDua1/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/HemaDua1/LeetCode/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/HemaDua1/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/HemaDua1/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/HemaDua1/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
