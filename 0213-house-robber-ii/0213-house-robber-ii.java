@@ -7,12 +7,11 @@ if(l==1)
 return nums[0];
 if(l==2)
 return Math.max(nums[0],nums[1]);
-int[] dp1=new int[l];
-int[] dp2=new int[l];
-Arrays.fill(dp1,-1);
-Arrays.fill(dp2,-1);
-int a=ans(0,dp1,nums,l-2);
-int b=ans(1,dp2,nums,l-1);
+int[] dp=new int[l];
+Arrays.fill(dp,-1);
+int a=ans(0,dp,nums,l-2);
+Arrays.fill(dp,-1);
+int b=ans(1,dp,nums,l-1);
 return Math.max(a,b);
     }
     public static int ans(int i,int[] dp,int[] nums,int l){
