@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HemaDua1/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HemaDua1/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/HemaDua1/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/HemaDua1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HemaDua1/LeetCode/tree/master/0229-majority-element-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HemaDua1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HemaDua1/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HemaDua1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HemaDua1/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HemaDua1/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HemaDua1/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HemaDua1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/HemaDua1/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/HemaDua1/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HemaDua1/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HemaDua1/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
