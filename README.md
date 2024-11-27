@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/HemaDua1/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/HemaDua1/LeetCode/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/HemaDua1/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HemaDua1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HemaDua1/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/HemaDua1/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/HemaDua1/LeetCode/tree/master/0397-integer-replacement) |
+| [0518-coin-change-ii](https://github.com/HemaDua1/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/HemaDua1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/HemaDua1/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
