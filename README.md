@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HemaDua1/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HemaDua1/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HemaDua1/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/HemaDua1/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HemaDua1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 | [2411-spiral-matrix-iv](https://github.com/HemaDua1/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HemaDua1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/HemaDua1/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/HemaDua1/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HemaDua1/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Graph
