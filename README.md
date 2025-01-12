@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HemaDua1/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/HemaDua1/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HemaDua1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HemaDua1/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2393-match-substring-after-replacement](https://github.com/HemaDua1/LeetCode/tree/master/2393-match-substring-after-replacement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HemaDua1/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/HemaDua1/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HemaDua1/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HemaDua1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HemaDua1/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HemaDua1/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HemaDua1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HemaDua1/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/HemaDua1/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
