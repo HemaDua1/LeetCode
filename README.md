@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/HemaDua1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/HemaDua1/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HemaDua1/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/HemaDua1/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/HemaDua1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/HemaDua1/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HemaDua1/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/HemaDua1/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/HemaDua1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/HemaDua1/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/HemaDua1/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemaDua1/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -954,4 +957,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/HemaDua1/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/HemaDua1/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
