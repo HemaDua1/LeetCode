@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HemaDua1/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HemaDua1/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/HemaDua1/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HemaDua1/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HemaDua1/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HemaDua1/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HemaDua1/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/HemaDua1/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HemaDua1/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HemaDua1/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/HemaDua1/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HemaDua1/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HemaDua1/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Quickselect
 |  |
