@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HemaDua1/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/HemaDua1/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/HemaDua1/LeetCode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/HemaDua1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/HemaDua1/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/HemaDua1/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/HemaDua1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HemaDua1/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/HemaDua1/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/HemaDua1/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/HemaDua1/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/HemaDua1/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HemaDua1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HemaDua1/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HemaDua1/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/HemaDua1/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/HemaDua1/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/HemaDua1/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/HemaDua1/LeetCode/tree/master/1396-count-servers-that-communicate) |
