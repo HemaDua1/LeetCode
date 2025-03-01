@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/HemaDua1/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HemaDua1/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/HemaDua1/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/HemaDua1/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/HemaDua1/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HemaDua1/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HemaDua1/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/HemaDua1/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HemaDua1/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/HemaDua1/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HemaDua1/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HemaDua1/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3540-hash-divided-string](https://github.com/HemaDua1/LeetCode/tree/master/3540-hash-divided-string) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HemaDua1/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HemaDua1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/HemaDua1/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HemaDua1/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/HemaDua1/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
