@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/HemaDua1/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HemaDua1/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HemaDua1/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/HemaDua1/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
