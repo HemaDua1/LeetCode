@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/HemaDua1/LeetCode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/HemaDua1/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HemaDua1/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/HemaDua1/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HemaDua1/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HemaDua1/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/HemaDua1/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
