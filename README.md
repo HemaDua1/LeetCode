@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/HemaDua1/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/HemaDua1/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/HemaDua1/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HemaDua1/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/HemaDua1/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/HemaDua1/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HemaDua1/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HemaDua1/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HemaDua1/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HemaDua1/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/HemaDua1/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HemaDua1/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
