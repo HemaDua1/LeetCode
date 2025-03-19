@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HemaDua1/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/HemaDua1/LeetCode/tree/master/0859-design-circular-deque) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HemaDua1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/HemaDua1/LeetCode/tree/master/3388-right-triangles) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HemaDua1/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3429-special-array-i](https://github.com/HemaDua1/LeetCode/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HemaDua1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/HemaDua1/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HemaDua1/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/HemaDua1/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HemaDua1/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/HemaDua1/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HemaDua1/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HemaDua1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/HemaDua1/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HemaDua1/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/HemaDua1/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HemaDua1/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HemaDua1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/HemaDua1/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Graph
 |  |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/HemaDua1/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HemaDua1/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/HemaDua1/LeetCode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HemaDua1/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
