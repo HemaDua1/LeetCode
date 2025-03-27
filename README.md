@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/HemaDua1/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/HemaDua1/LeetCode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/HemaDua1/LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HemaDua1/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HemaDua1/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HemaDua1/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HemaDua1/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/HemaDua1/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/HemaDua1/LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HemaDua1/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HemaDua1/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HemaDua1/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/HemaDua1/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/HemaDua1/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HemaDua1/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/HemaDua1/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HemaDua1/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/HemaDua1/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/HemaDua1/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HemaDua1/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/HemaDua1/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HemaDua1/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HemaDua1/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HemaDua1/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HemaDua1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/HemaDua1/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
