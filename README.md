@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HemaDua1/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/HemaDua1/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HemaDua1/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/HemaDua1/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HemaDua1/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/HemaDua1/LeetCode/tree/master/0164-maximum-gap) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HemaDua1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HemaDua1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HemaDua1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/HemaDua1/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HemaDua1/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HemaDua1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HemaDua1/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
