@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/HemaDua1/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HemaDua1/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1829-maximum-units-on-a-truck](https://github.com/HemaDua1/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1876-map-of-highest-peak](https://github.com/HemaDua1/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HemaDua1/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/HemaDua1/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -886,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/HemaDua1/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HemaDua1/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HemaDua1/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1829-maximum-units-on-a-truck](https://github.com/HemaDua1/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HemaDua1/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HemaDua1/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/HemaDua1/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/HemaDua1/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HemaDua1/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HemaDua1/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1829-maximum-units-on-a-truck](https://github.com/HemaDua1/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/HemaDua1/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HemaDua1/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HemaDua1/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
