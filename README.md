@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HemaDua1/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HemaDua1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HemaDua1/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HemaDua1/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/HemaDua1/LeetCode/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/HemaDua1/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/HemaDua1/LeetCode/tree/master/0729-my-calendar-i) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/HemaDua1/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/HemaDua1/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HemaDua1/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HemaDua1/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/HemaDua1/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/HemaDua1/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0941-sort-array-by-parity](https://github.com/HemaDua1/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/HemaDua1/LeetCode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/HemaDua1/LeetCode/tree/master/0397-integer-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/HemaDua1/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HemaDua1/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/HemaDua1/LeetCode/tree/master/0670-maximum-swap) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/HemaDua1/LeetCode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/HemaDua1/LeetCode/tree/master/0890-lemonade-change) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/HemaDua1/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/HemaDua1/LeetCode/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/HemaDua1/LeetCode/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HemaDua1/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/HemaDua1/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/HemaDua1/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
