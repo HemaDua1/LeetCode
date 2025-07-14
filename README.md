@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/HemaDua1/LeetCode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/HemaDua1/LeetCode/tree/master/0909-stone-game) |
 | [1119-robot-bounded-in-circle](https://github.com/HemaDua1/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HemaDua1/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/HemaDua1/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/HemaDua1/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HemaDua1/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/HemaDua1/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/HemaDua1/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/HemaDua1/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HemaDua1/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/HemaDua1/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/HemaDua1/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HemaDua1/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
