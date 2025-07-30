@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/HemaDua1/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HemaDua1/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HemaDua1/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/HemaDua1/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/HemaDua1/LeetCode/tree/master/3540-hash-divided-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HemaDua1/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/HemaDua1/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/HemaDua1/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Queue
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HemaDua1/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/HemaDua1/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/HemaDua1/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/HemaDua1/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Math
 |  |
 | ------- |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HemaDua1/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HemaDua1/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3540-hash-divided-string](https://github.com/HemaDua1/LeetCode/tree/master/3540-hash-divided-string) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/HemaDua1/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Two Pointers
 |  |
 | ------- |
